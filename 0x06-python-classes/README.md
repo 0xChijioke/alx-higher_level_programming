@@ -21,17 +21,17 @@ As usual, make sure you type (never copy and paste), test, understand all exampl
 
 ##  Tasks
 
-[0. My first square](https://github.com/EngrGord/alx-higher_level_programming/blob/main/0x06-python-classes/0-square.py)
+[0. My first square](https://github.com/EngrGord/alx-higher_level_programming/blob/master/0x06-python-classes/0-square.py)
 
-[ 1. Square with size ](https://github.com/EngrGord/alx-higher_level_programming/blob/main/0x06-python-classes/1-square.py)
+[ 1. Square with size ](https://github.com/EngrGord/alx-higher_level_programming/blob/master/0x06-python-classes/1-square.py)
 
-[ 2. Size validation ](https://github.com/EngrGord/alx-higher_level_programming/blob/main/0x06-python-classes/2-square.py)
+[ 2. Size validation ](https://github.com/EngrGord/alx-higher_level_programming/blob/master/0x06-python-classes/2-square.py)
 
-[ 3. Area of a square ](https://github.com/EngrGord/alx-higher_level_programming/blob/main/0x06-python-classes/3-square.py)
+[ 3. Area of a square ](https://github.com/EngrGord/alx-higher_level_programming/blob/master/0x06-python-classes/3-square.py)
 
-[ 4. Access and update private attribute ](https://github.com/EngrGord/alx-higher_level_programming/blob/main/0x06-python-classes/4-square.py)
+[ 4. Access and update private attribute ](https://github.com/EngrGord/alx-higher_level_programming/blob/master/0x06-python-classes/4-square.py)
 
-[5. Printing a square ](https://github.com/EngrGord/alx-higher_level_programming/blob/main/0x06-python-classes/5-square.py)
+[5. Printing a square ](https://github.com/EngrGord/alx-higher_level_programming/blob/master/0x06-python-classes/5-square.py)
 
 [ 6. Coordinates of a square  ](https://github.com/EngrGord/alx-higher_level_programming/blob/main/0x06-python-classes/6-square.py)
 
